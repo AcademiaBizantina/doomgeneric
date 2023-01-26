@@ -36,5 +36,12 @@ Ported platforms include Windows, X11, SDL, Soso. Just look at (doomgeneric_win.
 ## X11 - FreeBSD
 ![FreeBSD](screenshots/freebsd.png)
 
+## X11 - OpenBSD
+This is WIP. You need gmake for this to work. I managed to build it
+correctly. There are some warnings that pop up when compiling but they
+should not be a big problem.
+
+Currently I did not get any wad files to test the game. Will do!
+
 ## SDL
 ![SDL](screenshots/sdl.png)
