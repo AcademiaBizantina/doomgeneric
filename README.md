@@ -43,5 +43,8 @@ should not be a big problem.
 
 Currently I did not get any wad files to test the game. Will do!
 
+Update: it works! The only thing is that you cannot use the mouse. I
+don't even know if that should be possible.
+
 ## SDL
 ![SDL](screenshots/sdl.png)
